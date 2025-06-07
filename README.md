@@ -1,6 +1,8 @@
 Our Members:
 187241102 / Farhan Zuzo Putra Jaya
+
 187241107 / Faisal Akbar
+
 187241109 / Alfarrel Yuri Ramadhani
 
 # Tic Tac Toe Game in Java
